@@ -2,5 +2,5 @@
 Just another repository
 Hello!
 
-They force me to write this. Send help! :D
+I still don't understand how to use this.
 I want to be a web developer, so I'm learning how to use GitHub :)
